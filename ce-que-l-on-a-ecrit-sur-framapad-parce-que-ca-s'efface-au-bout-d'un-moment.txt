@@ -1,0 +1,233 @@
+L'histoire la plus cool du monde
+(également appelé - 
+du love en HTML
+
+j'ai l'impression d'être dans une conversation de minitel. j'adore.merci framasoft
+
+C'est l'histoire d'une agricultrice (à définir, des trucs un peu funs sur elle),
+Un jour, elle fait son taf dans son champs, et qu'est ce qu'elle voit? (map du champs trop ouf malade)
+un cercle de culture. 
+Le joueur ou la joueuse peut peut être diriger le tracteur (fleche, souris, click, ce qui est facile à programmer),  voilà ce que je ferais perso (code plus simple) : 
+-on pose 2 options : « aller voir ce qui se trame » ou « ne rien faire »
+-si la joueuse clique sur « aller voir ce qui se trame », on aura un plan rapproché du cercle de culture avec une sorte de portail, genre une arche ou des colonnes antiques or something
+-l'agricultrice dit « Il y a des trucs chelous qui se passent par ici, je sens des forces magnétiques hors norme », et boom, elle est aspirée par le portail et passe de l'autre côté
+héhé top j'aime
+et si elle dit ne rien faire? bah elle continue de planter des choux <3 
+
+ 
+et quand il-elle arrive sur un point précis du cerle de culture,
+BOOM elle se retrouve dans un monde parallèle.
+Elle peut être accueilli  une cyborg chimère. Et c'est Karen Spärk Jones qui est la gourou de ce monde.  //c'est peut-être une chimère mi-chouette mi-électronique ?  ouip posey sur sa branche, c fun <3 on l'appelle vraiment "Gourou Help" ? non, elle merite plus cool comme nom --> elle est peut-être dans la foret alors ?hum en mode première scene se passe dans la forêt? je sais pas, maybe ?
+et elle a des punchlines of course
+
+L'agricultrice pourra lui poser des questions quand elle voudra pendant tout le jeu. --> ca peut etre cool que tout le long des quetes, l'heroine puisse la consulter pour poser des questions yes c ça l'idée je vais bricoler un micro code de ca tu fais pas tout sans moi stp!!!  je suis sure tu vas tout coder solo.. mainon !
+
+La chimère featuring cyborg lui explique vite zef ou elle est 
+et lui dit qu'elle doit lui rapporter le graal --> juste trouver un graal c'est bien
+(objet débile à définir...: objet electronique naze? un chargeur? okay c'est nul) une raspberry pi ? une disquette ?hum jsp, pas convaincu pour le moment, mais on trouvera! une gameboy ? une gamegirl ?ohh gamegirl fun
+ou sinon, faut qu'elle trouve un pingouin solitaire et devienne son amie
+
+       .---.
+      /     \
+      \.@-@./
+      /`\_/`\
+     //  _  \\
+    | \     )|_
+   /`\_`>  <_/ \   il est p.e pas assez trashy cool ce pingouin mais l'histoire de linux est fun --> tu as raison, faut le pimper. 
+   \__/'---'\__/
+  haha, il fait un peu tiep bah parce qu'il est solitaire, parce que tout le monde boude linux <3 <3 <3
+ce serait trop drole qu'elle ait une conversation avec lui a la fin, du genre « pourquoi tu pleures petit pingouin ? » « personne veut jouer avec moi ouiiiin ». bon c'est peut etre nul mais tu vois l'idée hhaha la fin toute pourrie wait
+il faut aller dans le royaume des morts, en enfer, traverser le styx, chercher le pingouin parce qu'il a trop chaud (et genre y a des serveurs qui surchauffent)et on parle de réchauffement climatique et de sobriété numérique et boom la boucle est bouclée. je rigole :( <- :)
+  
+et qu'une fois que cela sera fait, elle pourra choisir entre rester dans le monde merveilleux ou retourner sur terre
+
+Du coup la on verrait une map du monde parallèle? est-ce que c'est karen qui lui donne la map ? une Karen Map ? 
+je me demande si la map c maintenant, genre tu vois les 4~5 lieux qu'elle peut explorer et tu click dessus pour y aller ou si c'est plus facile de diriger le truc quitte à voir la map à la fin parce qu'elle sera stylée
+et du coup propulser l'exploratrice de lieux en lieux je vois ce que tu veux dire. bah c cool je pense d'explorer librement sans qu'on définisse l'ordre, sachant que parfois elle sera bloquee parce qu'elle aura besoin d'infos/d'objets qu'elle doit recupere dans d'autres quetes pour avancervendu
+
+chaud pour la déambulation libre
+
+cool 
+
+bah du coup on definit les lieux et les chimeres ?
+yes
+
+
+il faut qu'il y ait un temple dans l'histoire (avec nos blasons)
+pour pouvoir entrer dans le temple, il faut répondre au quiz de Jaime Levy, qui est en mode sphinge, et en plus a la fin elle nous offre une disquette (qui sera utile dans une quête)
+et boom là, on a une carto du temple  est ce que dans le temple ce ne serait pas le moment on on a un message codé (a trouver, caché dans le décor parmi des trucs qui ne servent à rien et des manifestes)  qui dit d'aller dans le code source? ou p.e dans la forêt ça... oooh genre « vous devez retourner aux sources »oui ! mais en crypté...genre crypté comment ? oooooh je sais, genre y a une machine à décrypter quelque part yes dans un aautre lieu ouicooooooool
+
+sinon la disquette de Jaime faut la mettre dans un ordi qui se met à imprimer des dessins à décrypter (comme le mini site que j'ai fait pour toi <3) trop bien! oui on fait ça!
+p.e pour le décryptage, on peut dire que l'exploratrice recupere un cd disque disquette mais écrit par Jean Sammet comme elle a inventer un language de propgrammation, maybe c plus cohérent de dire que c'est sa disquette que l'on va décrypter et on garde Jaime pour un autre moment (c'est beaucoup trop cool comme nom jaime... jaime élé) hmmm, pour moi c 2 trucs séparés, la disquette cyber rag et le texte à décryptertop -on est d'accord- Reem Saleh
+
+
+J'aimais bien l'arène ou le stade olympique, ça fait pas mal antique j'avoue. avec un cyborg dragon peut-etre ? si ça peut vous faire plaisir madame ou un tournoi de chevaliers (oui c'est l'antiquité ET le moyen age)jeanne d'arc tmtc je trouve ca cool que dans l'arene des chevalier.e.s se battent avec des bugs (est-ce qu'il faut introduire Grace Hopper ?)
+elle peut maybe être la personne qui lance le combat genre l'arbitre, avec un joli maillot rayéhaha, tout ce que tu aimes? tmtc
+
+
+Fight Bugs                      |     |
+                                \\_V_//
+                                \/=|=\/
+                                 [=v=]
+                               __\___/_____
+                              /..[  _____  ]
+                             /_  [ [  M /] ]
+                            /../.[ [ M /@] ]
+                           <-->[_[ [M /@/] ]
+                          /../ [.[ [ /@/ ] ]
+     _________________]\ /__/  [_[ [/@/ C] ]
+    <_________________>>0---]  [=\ \@/ C / /
+       ___      ___   ]/000o   /__\ \ C / /
+          \    /              /....\ \_/ /
+       ....\||/....           [___/=\___/
+      .    .  .    .          [...] [...]
+     .      ..      .         [___/ \___]
+     .    0 .. 0    .         <---> <--->
+  /\/\.    .  .    ./\/\      [..]   [..]
+ / / / .../|  |\... \ \ \    _[__]   [__]_
+/ / /       \/       \ \ \  [____>   <____]
+
+après il peut y avoir une des scènes ou c'est juste en extérieur et il y a des colonnes et des statues en paysage (dans des ruines!!) OUUUIIIII DES RUINES
+s avec Dorothea K et les zouz, qui . Et p.e il y a un télescope, 
+dedans on voit un ciel pour faire des chimères avec Dorothea k et ces zouzs ou bof? oui. faut un telescope quelque part et on regarde le ciel et bim y a la zouz-lune ouiii! c'est Margaret Hamilton la zouz lune oui de ouf est ce que l'on fait des prédictions lunaires random? bien sur, c'est évident.top
+
+
+on peut caller Netochka Nezvanova qui vient tout perturber à un moment <3 p.e elle peut venir dans les JO en tout cas il faut un moment une figure qui fout la merde, que ce soit elle ou des hackeuses ou des collectifs yes!!!
+mais elle elle est jutement la pour faire des perturbations je pense, ou des fights, ou c'est une des chevalière
+
+la forêt c'est fun , ou espace sauvage avec la cascade dans la foret faut des centaures, et t'avais dit qu'on pouvait secouer les arbres pour trouver des surprises. oui oui oui
+
+
+est-ce qu'on intègre les Freelance Programmers quelque part ? avec Steve ;) héhé, oui steve est de la partie. P.e c'est un espace ou des gens travaillent (en faite je me disais que maybe il pouvait y avoir une salle des ordi mais c'est un peu nul. et un des ordi étaient la machine à décoder, comme ton très cool site
+mais c'est pas très antique et pas très fun
+hmm... peut-être que c'est une scène dans la nature, avec la cascade et des rochers sur plusieurs niveaux avec la salle des ordishumm, ça me plait..et pour trouver l'ordi qui décode faut aller derrière la cascade, et genre l'ordi peut s'appeler SAMMET or something oui oui oui trop cool
+   _____________________
+  /                 `   \
+  |  .-----------.  |   |-----.
+  |  |           |  |   |-=---|
+  |  | 5AMMET // |  |   |-----|
+  |  |           |  |   |-----|
+  |  |           |  |   |-----|
+  |  `-----------'  |   |-----'/\
+   \________________/___'     /  \
+      /                      / / /
+     / //               //  / / /
+    /                      / / /
+   / _/_/_/_/_/_/_/_/_/_/ /   /
+  / _/_/_/_/_/_/_/_/_/_/ /   /
+ / _/_/_/_______/_/_/_/ / __/
+/______________________/ /    
+\______________________\/
+parfait! trop styléééééééééééééé ou sinon on l'appelle STEVE :) NON ! dans la scène d'avant avec la cascade, faut une petite enseigne genre « Chez Steve »
+
+Où est-ce qu'on met « Girls need modems » ?de ouf mais je ne sais pas encore quand...
+Il y a les horribles cernettes à caller aussi je suis chaud pour mettre un poste de radio ou un synthé or something ça me roule, ou instrument antique, c'est nul?on peut grave le pimper avec des colonnes ou une frise ;) genre ordi/synthé antique ça m'enjaille ça madame! tu m'enjailles madame :)héhé, il va être trop cool ce jeu si on y arrive et on arrive des visuels stylé en vrai j'y crois de ouf
+
+Je pense que le poème de la moman des internètes est stylé et qu'il faut qu'il figure quelque part dans notre jeu
+de ouf, mais on a plein de manifestes, citations ou autres a mettre un peu partout: dans les arbres, sous des meubles, le poème peut etre dans un cadre,un tableau, un blason  genre contre un mur et quand tu cliques dessus tu le vois en entier <3 <3 <3 on peut avoir un avion qui passe dans le ciel avec une banderole derriere qui dit "girls need modems"haha fun, trop top!
+
+ou alors ca peut etre dans le code (en commentaire) par exemple et ensuite si tu mets le nom de radia Pelman en mot de passe pour acceder à un truc faut peut-être la mettre dans la forêt radia, non ? perce que STP c'est spanning tree protocol mais oui of course, entouré de centaur, ou avais-je la tête 
+et du coup une des étapes c de lui apporter son poeme que l'on aura trouver ailleurs par exemple !
+
+j'ai vu que tu regardais top chef, t pas obligée de le supprimer, héhé ceci est un document de travail, ok  ?
+
+nop on geek en buvant des bieres
+franchement c bien top chef
+franchement c'est bien les bières <3 nous on boit des panaches
+leila est arrivée? finalement elle est allée chez sa mère et je pense qu'elle s'y plait. elle va tester quelques jours et si ca lui plait pas elle vient chez nous
+le challenge dans top chef ce soir c'est cucurbitacés
+élé yep ca te dit pour commencer on choisit chacune une scene ou deux et on essaie de les coder ?
+ohh, challenge accepted, ça risque d'ête un petit peu complicado mais okay, qu'est ce qui t'inspire?
+tu préfères qu'on code en même temps toutes les 2 ? :)
+c'est fun mais c compliquée en même temps, non?
+je t'ai envoyé untruc sur fb
+
+
+
+
+
+bout de carto lu avec la disquette dans l'ordi de la falaise pour acceder au graal
+
+
+je suis encore mitigée pour le pingouin... sinon, c'est un modem, mais genre en mode modem geant avec des colonnes et tout (et l'indice c'est girls need modems). genre quand KSJ te parle, posey sur sa branche, elle te dit « regarde le ciel » et bim, y a un avion qui passe avec la banderole « girls need modems » so tu captes qu'il faut que tu cherches un modem mais l'avion est pas un indice pour retrouver le modem de radia  ? ou on donne autre chose à radia on peut donner autre chose à radia, c'est juste une suggestion de graal final moins pété que le pingouin en vrai j'aime bien que ce soit pêté... déso je suis relou parce que j'arrive pas à trouver ce que je veux.. mais pour le moment c'est le pingouin mon pref... et je trouvais ça fun le girl need modems qui indique un modem alright ! en vrai je pense qu'il faut une scène, genre maybe la scène cascada où le girls need modems passe dans le ciel et radia (qui est un cyborg arbre)<3 nous dit « j'ai besoin de quelque chose, mais je ne sais pas ce que c'est » et bim on capte que c'est un modem et on clique a un endroit dans la scène de la cascade et on découvre un modem.TOp, je me demandais si c'était pas fun de cacher un truc dans la grande carto directement aussi... on peut aussi trouver le modem dans la grande carto, juste je pense que faire passer l'avion au-dessus de la cascade c'est plus beau que sur la grande carto okay 
+p.e on peut remettre La perturbatrice dans le temple... un peu en mode combat final... grave
+ha, mais tu l'avais bougé déja enfaite... perspicace 
+
+le poeme peut maybe renvoyer à des indices (parce que juste le réciter risque d'être un peu basique non ? sauf si on garde ton idée de le réciter à Netochka ou la zouz-lune) moi je crois que ça me suffit si on lui récite le poème
+
+la disquette cyber rag que tu mets dans un l'ordi au bord d'une falaise qui imprime des pictos --> peut-etre que ces pictos peuvent compléter une carto du ciel que dorothea ou la femme-lune te filent et ça te donne des indices pour la suite, genre ça debloque un nouvel endroit sur la carte que tu peux visiter
+et est ce que ça te montrerait pas comment aller au sous sol du temple ou un truc comme ça, la ou il y a le graal, ou alors un passage secret pour aller sur une petite ile ou il est mais avant ça tu dois combattre (ou pas combattre, faire autre chose...) avec Nerochka,  j'aime b genre l'imprimante peut imprimer une sequence de fleches qui te disent comment te diriger dans le tunnel/labyrinthe qui va jusqu'à l'ile et en gros dans le tunnel tu dois cliquer sur la bonne sequence de fleches pour arriver sur l'ile, top chaud!!
+
+ien lui balancer un bug, c'est fun
+
+Mais quand tu as réup ton bout de carto, tu vois apparaitre le passage secret sur la grande.... qui sort du temple...yes, j'aime bien l'ile, genre ca fait apparaitre le passage secret qui va jusqu'à l'ile
+
+
+je réfléchis à tout ca <3 je dois faire pipi faites donc
+
+
+
+
+
+
+C'est l'histoire d'une quête (et si notre quête partait d'une situation banale, genre une livreuse de pizzas qui passe par un monde fou et sa quête c'est de livrer ses pizzas, ou une camionneuse - passion camionneuse
+
+ /c'est quoi le nom des nanas sur leurs tracteurs déjà?/  quelles nanas ? dykes on bikes ? gasoline dykes ? c'est juste de la terminologie lesbienne fun tu sais, les zouzs qui ont un tracteur ont un nom spécial aux Etats unis  ouiiiiii - après c'est de la sous-culture lesbienne un peu, mais on peut partir sur une zouz et un tracteur<- genre appropriation culturelle gênante? y a ca et surtout le fait que c'est basé sur un article que j'ai lu une fois dans un zine lesbien des années 1990 (genre c'est un tout petit phénomène très localisé). mais on peut faire un hommage avec une héroine qui a un tracteur
+ parce que, sinon, ça peut aussi être cette meuf très stylée qui est sur son tracteur. Et dans son champs, qu'est ce qu'elle remarque: un cercle de culture (boom) et je ne sais pas trop comment, elle arrive dans un monde parallèle mytho-technologique --> oui. c'est le cercle de culture, y a un portail chelou, c'est évident.c'est évident.<3
+
+Du coup au début, on voit la nana qui fait sa vie d'agricultrice
+ensuite on voit une map stylée d'un champs avec un cercle de culture
+et quand le tracteur va sur un point du cercle de culture, un portail apparait et hop, monde parallèle 
+est ce que c'est pour re sortir du monde parallèle qu'elle doit faire une quête? oui, toucher le graal ca la transporte. mais après avoir découvert notre monde merveilleux, elle peut choisir d'y rester
+ou alors, en arrivant, elle rencontre une gourou, genre Karen Spärck Jones parce qu'elle a des punch line fun, et c'est elle qui lui dit, pour retourner chez toi, tu dois m'apporter le graal, mais il y aura plusieurs étapes, et yes elle peut y rester parce que le monde merveilleux est beaucoup trop stylé de ouf, plein de zouz trop stylées et intelligentes qui gèrent de ouf --> fun
+en faite karen pourrait être la cyborg "question" comme son taf a permi de faire le moteur de recherche google.
+P.e gourou help c'est cool <3 genre un gourou à qui tu poses des questions et qui peut t'apporter des connaissances sur ce nouveau monde
+
+
+
+[j'ai un petit dilemme à régler avec moi même -> en faite je suis mitigée entre montrer que des zouzs vraiment très impressionnantes parce que ça montre que les femmes savent très bien faire des choses méga intéressantes, que l'on a plein de modèles et d'héroïnes existantes. Mais en même temps, ça fait un peu, tu n'as pas ta place dans ce monde si t'es pas à la hauteur alors que tu peux être une personne très riche sans être Grace Hopper-->après, des personnes comme Jaime Levy, Olia Lialina, Freelance Programmers, Echo... sont ultra stylées et trashy-cool sans que le poids de leurs réalisations soit écrasant, au contraire c'est hyper inspirant et ce sont des modèles qu'on peut mettre en pratique. Chelsea Manning est ouf pour ca : ce qu'elle a fait ne repose pas sur des compétences ou skills hors normes, mais un courage et une éthique de malade.
+mais je pense qu'en faite, c'est pas la question la, c'est une réflexion de meuf de toujours vouloir remettre à sa place les choses, en faite dans ce jeu, c'est comme dans n'importe quel jeu de héro-héroïne et que l'on est plutôt dans l'ambiance montrer des modèles, montrer que l'on peut être les protagonistes d'une histoire folle
+je crois que j'ai apaisé mon dilemme]
+alors
+oui
+je pense que toute la question c'est aussi comment on les présente ces zouz. genre on ne présente pas de biographies détaillées. ex : on rentre dans un temple chelou et boom y a une bonne soeur qui fait des trucs stylés (et en fait c'est Mary Kenneth Keller)
+ou genre, y a une platine ou un poste de radio et on peut y écouter un tube des horribles cernettes : https://en.wikipedia.org/wiki/Les_Horribles_Cernettes
+ou y a une bibliothèque et on peut collectionner des livres et y lire des extraits de textes fondateurs
+en tout cas, je pense que si on crée un truc cool, sur le jeu, les surprises et le graphisme, déjà c'est énorme.
+"on est d'accord" cf. reem saleh <3
+
+
+
+ - qui s'assoupit au volant et se retrouve sur une route parallèle et doit retrouver son chemin)
+On veut que les personnes qui nous guide dans cette quête soient des zouzs informaticiennes stylées (elles peuvent être des déesses et/ou des sorcières et/ou des chimères cyborg)
+ou alors des refs: du type: faire le quizz de la disquette Cyber Rag de Jaime levy pour passer à l'étape supérieur (si c'est pas drôle, on trouvera plus fun)oh, genre Jaime Levy est le sphinx (ou la sphinge, on dit sphinge jsp...?)mais de ouf!!
+
+
+mais une quête mystico-pété (cf. adélie) avec un Graal fun à la fin plus fun qu'une pinte de kro ?en vrai, moi ça me roule si le graal est tout pourri, je trouve ça marrant de faire une méga quête pour apporter ... bon j'ai pas d'idées pourries et fun à la fois mais un truc trivial...  une brosse à dents ? un tube de dentifrice ? 
+
+On veut qu'il y ait plein de surprises dans notre jeu, des trucs cachés, des micro détails, des codes secrets...
+-faire apparaître des trucs et des messages quand on "hover" sur des trucsquand on secoue un arbre, il y a des trucs qui tombent, comme dans animal crossing (okay, c'est pas une ref glorieuse), mais on peut faire apparaitre des trucs rigolos qui ne servent à rien et des trucs plus stylé comme des bouts de manifeste ou autreoui, oui, oui. sinon, on peut aussi mettre des objets (genre un tapis) où tu peux regarder en-dessous
+-quand on imprime, boom, ca fait un poster stylé<3
+-on cache des messages dans le code, c'est évident.<3personne va les trouver ahah, enfin sides mots pour nousje rougishéhé
+
+Ce que l'on veut dans notre histoire:
+    
+des chimères -> des robots-chimères!des cyborgs quoi
+des statues 
+des personnages merveilleux: 
+des lyres qui font de la musique quand on passe la souris dessus? de la musique kraftwerk <3
+
+Un monde antique, avec des colonnes,   
+des forets magiques (avec des elfes, des druides et tout)
+des cartos stylées
+un cercle de culture où il se passe des trucs chelous
+un parking ou un garage (c'est fun je trouve)
+une arène?
+des combats
+du sport olympique? <3
+du drame
+du sang
+du love
+de la tempête
+
+ «Je préfère être un cyborg qu’une déesse.» Donna Haraway, A Cyborg Manifesto, 1984 <3
