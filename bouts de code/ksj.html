@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+	<pre style="margin-left: 40px; margin-top:60px;">
+	         ,                                      ,
+	        |\                                      /|
+	     ,   \'._ ,                           ,  _.'/   ,
+	     |\  {'. '-`\,      ,-._**_.-,      ,/`-' .'}  /|
+	      \`'-'-.  '.`\      \*____*/      /`.'  .-'-'`/
+	    ,'-'-._  '.  ) )     /`    `\     ( (  .'  _.-'-',
+	    |\'- _ '.   , /     /  /""\  \     \ ,  .'  _ -'/|
+	     \'-.   .  ; (      \_(^)(^)_/      ) ;   .  .-'/
+	      `'--, . ;  {`-.      \__/      .-'}  ; . ,--'`
+	      '--`_. ;  { ^  \    _|  |_    /  ^ }  ; ._`--'
+	      `,_.--  ;  { ^  `-'`      `'-`  ^ }  ;  --._,`
+	        ,_.-    ; {^    /        \    ^} ;    -._, 
+	         ,_.-`), /\{^,/\          /\,^}/\ ,(`-._,
+	           _.'.-` /.'   \        /   `.\ `-.'._
+	          `  _.' `       \      /       ` '._   `
+	                        .-'.  .'-.
+	                      .'    `` ^  '.
+	                     /  ^ ^   ^  ^  \
+	                     | ^    ^   ^   |
+	                    /^   ^/    \  ^  \
+	                    \,_^_/    ^ \_,^./
+	                     /=/  \^   /  \=\
+	                 __ /=/_   | ^|   _\=\ __
+	               <(=,'=(==,) |  | (,==)=',=)>
+	                 /_/|_\    /  \    /_|\_\
+	                 `V (=|  .'    '.  |=) V`
+	                     V  / _/  \_ \  V
+	                       `"` \  / `"`
+	                            \(
+	</pre>
+
+	<pre id="reponse" style="position: absolute; margin-left: 600px; margin-top:-350px; display: none;">
++ ------------------------- +
+|                           |
+|  Vous êtes dans le monde  |
+|   le plus cool du monde.  |
+|                           |
++ ------------------------- +
+	</pre>
+
+	<select id="question" style="position: absolute; margin-left: 600px; margin-top:-250px;">
+	    <option>Demande la clé du savoir</option>
+	    <option>Wesh, on est où là ?</option>
+	</select>
+
+<script>
+
+	document.getElementById('question').addEventListener('change',function(){
+		setTimeout(function(){
+			document.getElementById('reponse').style.display = "block";},
+		1000);
+    });
+
+
+
+</script>
+
+</body>
+</html> 
+
