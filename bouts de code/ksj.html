@@ -50,6 +50,8 @@
 	    <option>Wesh, on est où là ?</option>
 	</select>
 
+	<button type="button" onclick="myFunction()">Rajouter une question</button>
+
 <script>
 
 	document.getElementById('question').addEventListener('change',function(){
@@ -58,6 +60,13 @@
 		1000);
     });
 
+
+function myFunction() {
+  var x = document.getElementById("question");
+  var option = document.createElement("option");
+  option.text = "C'est quoi un modem ?";
+  x.add(option);
+}
 
 
 </script>
