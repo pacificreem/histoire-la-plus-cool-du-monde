@@ -18,18 +18,18 @@
   [_]
 </pre> 
 
-<pre id="cascada" style="position: absolute;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                                                                |      
-                                                              |   |  | 
-                                                               |    |  
-                                                                |     
-                                                              |   |  |
-                                                               |    |   
-                                                             '. .' .`.
-                                                             0oOO0oO0o 
-</pre>
+<a href="ordis.html" style="text-decoration: none; color: black;"><pre id="cascada" style="position: absolute; cursor: alias; margin-left: 468px; margin-top: 358px;">
+    |      
+  |   |  | 
+   |    |  
+    |     
+  |   |  |
+   |    |   
+ '. .' .`.
+ 0oOO0oO0o 
+</pre></a>
 
-  <pre class="nuages">
+<pre class="nuages">
                          _  _                                                                        
                         ( `   )_                                                                     
                        (    )    `)                                                                  
@@ -47,10 +47,10 @@
                                           _, _ .                                   ( `  ) . )         
                                          ( (  _ )_                                (_, _(  ,_)_)       
                                        (_(_  _(_ ,)                                                   
+
 </pre>
 
-  <pre>
-
+  <pre id="montagnes" style="margin-bottom: 0px;">
                        .-.                 _            .-.      .\      _              .-.                  _   
                       /   \              _/ \       ___/   \   _/  \    / \_           /   \               _/ \       
          _        .--'\/\_ \            /    \    _/ ___ ...\ /.-'  `-./  _ \_     .--'\/\_ \             /    \      ___
@@ -68,12 +68,12 @@
 
 <pre class="vagues">
          ~        ~          ~         ~                       ~                  ~            ~               ~
-           ~~          ~~                  ~~              ~~              ~~                           ~~           ~~
+           ~~          ~~                  ~~              ~~              ~~                           ~~          ~~ <span id="bouteille" style="cursor: context-menu;" onclick="myBouteille()">*</span>
                                 ~~~                                  ~~~                 ~~~
                                        ~~~~                                    ~~~~              ~~~~            ~~~~
                  ~~~~~                             ~~~~~                                                      
 </pre>
-<pre id="navire" class="flotte" style="z-index: 2; cursor: context-menu;">
+<pre id="navire" class="flotte" style="z-index: 2; cursor: context-menu;" onclick="myBateau()">
     __4___
  _  \ \ \ \
 <'\ /_/_/_/
@@ -82,21 +82,33 @@
    ~~~~~~~~
 </pre>
 
+<!--<pre>
+ _____________________________________
+|  _________________________________  |
+| |                                 | |
+| |  /^v^\  PROTOCOLE B.A.T.M.A.N.  | |
+| |         ----------------------  | |
+| |  Better Approach                | |
+| |  to Mobile Adhoc Networking     | |
+| |_________________________________| |
+|_____________________________________|
+</pre>-->
+
 
   <script type="text/javascript">
 
 
     var text = [
 
-    '<br><br><br><br><br><br><br><br><br>/^v^\\', 
+      '<br><br><br><br><br><br><br><br><br>/^v^\\', 
 
-    '<br><br><br><br><br><br><br><br><br>\\   /<br> ^v^'
+      '<br><br><br><br><br><br><br><br><br>\\   /<br> ^v^'
     ];
     var counter = 0;
     var elem = document.getElementById("bird");
     setInterval(changebird, 250);
     function changebird() {
-     elem.innerHTML = text[counter];
+      elem.innerHTML = text[counter];
         counter++;
         if(counter >= text.length) { counter = 0; }
     }
@@ -104,9 +116,9 @@
 
 
     var textcasc = [
-"<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>                                                                  |      <br>                                                             |   |  |<br>                                                                | <br>                                                                  |     <br>                                                             |   |  |<br>                                                                   |     <br>                                                               '  '' .<br>                                                             0oOO0oO0o",
+      "    |     <br>  |   |  |<br>   |    | <br>    |     <br>  |   |  |<br>   |    | <br> '. .' .`.<br> 0oOO0oO0o",
 
-"<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>                                                                 |    <br>                                                               |   |  <br>                                                             |    |<br>                                                                 |    <br>                                                               |   |  <br>                                                                |    |<br>                                                              '. .'.`<br>                                                             o0oOO0oO0"
+      "     |    <br>    |  |  <br>  |      |<br>     |    <br>    |  |  <br>  |      |<br> .  ' ` .'<br> o0oOO0oO0"
     ];
 
     var countercasc = 0;
@@ -119,11 +131,38 @@
     }
 
 
-
     function parachute() {
       document.getElementById("bird").style.opacity = "0";
+      document.getElementById("bird").style.cursor = "default";
       document.getElementById("parachute").style.opacity = "1";
-    }   
+    }  
+
+    var background = "                       .-.                 _            .-.      .\\      _              .-.                  _<br>                      /   \\              _/ \\       ___/   \\   _/  \\    / \\_           /   \\               _/ \\<br>         _        .--'\\/\\_ \\            /    \\    _/ ___ ...\\ /.-'  `-./  _ \\_     .--'\\/\\_ \\             /    \\      ___<br>        / \\_    _/ ^      \\/\\ __       /\\/\\  /\\  / _/   \\    /.__ .'   \\ / \\_ \\  _/ ^      \\/\\ __       /\\/\\   /\\  __/   \\<br>       /    \\  /    .'   _/  /  \\     /    \\/  \\/ .`'\\_/\\   /_/  \\_ :   /    \\ \\/    .'   _/  /  \\     /     \\/  \\/ .`'\\_/\\<br>      /\\/\\  /\\/ :' __  ^/  ^/    `--./.'  ^  `-.\\ _    _:\\ _|      \\__ /\\/\\  /\\/ :' __  ^/  ^/    `--./.'  ^  `-.\\ _    _:\\ _<br>     /    \\/  \\  _/  \\-' __/.' ^ _   \\_   .'\\   _/ \\ .  __/ |         |    \\/  \\  _/  \\-' __/.' ^ _   \\_   .'\\   _/ \\ .  __/ \\<br>   /\\  .-   `. \\/     \\ / -.   _/ \\ -. `_/   \\ /    `._/  ^ |         | .-   `. \\/     \\ / -.   _/ \\ -. `_/   \\ /    `._/  ^  \\<br>  /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -|         |-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.<br> /        `.  / /      `-.   /  .-'_.._ .   .'   \\    \\  \\  |         |    `.  / /      `-.   /  .-_.._/ .   .'   \\    \\  \\  .-  \\<br>       ....______   _________....-~    ~-.______            |         |             _________....-~    ~-.______<br>                 ~~~                            ~~~~-----...|         |..--------~~~                            ~~~~-----...<br> ___________________________________________________________|         |___________________________________________________________";
+
+    var backgroundBouteille = "                       .-.                 _            .-.      .\\      _              .-.                  _<br>                      /   \\              _/ \\       ___/   \\   _/  \\    / \\_           /   \\               _/ \\<br>         _        .--'\\/\\_ \\            /    \\    _/ ___ ...\\ /.-'  `-./  _ \\_     .--'\\/\\_ \\             /    \\      ___<br>        / \\_    _/ ^      \\/\\ __       /\\/\\  /\\  /                               _/ ^      \\/\\ __       /\\/\\   /\\  __/   \\<br>       /    \\  /    .'   _/  /  \\     /    \\/  \\/   ~~~~~~~~~~~~~~~~~~~~~~~~~~~      .'   _/  /  \\     /     \\/  \\/ .`'\\_/\\<br>      /\\/\\  /\\/ :' __  ^/  ^/    `--./.'  ^  `-.\\     {}    BOUTEILLE À LA MER   :' __  ^/  ^/    `--./.'  ^  `-.\\ _    _:\\ _<br>     /    \\/  \\  _/  \\-' __/.' ^ _   \\_   .'\\   _/    ||    ------------------    _/  \\-' __/.' ^ _   \\_   .'\\   _/ \\ .  __/ \\<br>   /\\  .-   `. \\/     \\ / -.   _/ \\ -. `_/   \\ /      )(     « Je préfère être   /     \\ / -.   _/ \\ -. `_/   \\ /    `._/  ^  \\<br>  /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.    |__|     un cyborg qu'une    .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.<br> /        `.  / /      `-.   /  .-'_.._ .   .'   \\   |  |            déesse. »   /      `-.   /  .-_.._/ .   .'   \\    \\  \\  .-  \\<br>       ....______   _________....-~    ~-.______     |__|   A Cyborg Manifesto      _________....-~    ~-.______<br>                 ~~~                            ~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~                            ~~~~-----...<br> ___________________________________________________________           ___________________________________________________________";
+
+    var backgroundBateau = "                       .-.                 _            .-.      .\\      _              .-.                  _<br>                      /   \\              _/ \\                                          /   \\               _/ \\<br>         _        .--'\\/\\_ \\            /    \\   *********************************  --'\\/\\_ \\             /    \\      ___<br>        / \\_    _/ ^      \\/\\ __       /\\/\\  /\\  * ***************************** *  ^      \\/\\ __       /\\/\\   /\\  __/   \\<br>       /    \\  /    .'   _/  /  \\     /    \\/    * *                           * *   .'   _/  /  \\     /     \\/  \\/ .`'\\_/\\<br>      /\\/\\  /\\/ :' __  ^/  ^/    `--./.'  ^  `-  * *  Bien joué !   _      _   * *  __  ^/  ^/    `--./.'  ^  `-.\\ _    _:\\ _<br>     /    \\/  \\  _/  \\-' __/.' ^ _   \\_   .'\\    * *                \\\\    //   * *    \\-' __/.' ^ _   \\_   .'\\   _/ \\ .  __/ \\<br>   /\\  .-   `. \\/     \\ / -.   _/ \\ -. `_/   \\   * *  T'as trouvé   _\\\\__//_   * *     \\ / -.   _/ \\ -. `_/   \\ /    `._/  ^  \\<br>  /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `  * *  un modem !   |________|  * *  '.--'    . /    `--./ .-'  `-.  `-. `.  -  `.<br> /        `.  / /      `-.   /  .-'_.._ .   .'   * *                           * *      `-.   /  .-_.._/ .   .'   \\    \\  \\  .-  \\<br>       ....______   _________....-~    ~-._____  * ***************************** *  _________....-~    ~-.______<br>                 ~~~                             *********************************                              ~~~~-----...<br> ___________________________________________________________           ___________________________________________________________";
+
+
+    function myBateau() {
+      if (document.getElementById("montagnes").innerHTML == backgroundBateau) {
+        document.getElementById("cascada").style.display = "block";
+        document.getElementById("montagnes").innerHTML = background;
+      }else{
+        document.getElementById("cascada").style.display = "none";
+        document.getElementById("montagnes").innerHTML = backgroundBateau;
+      }
+    }
+
+    function myBouteille() {
+      if (document.getElementById("montagnes").innerHTML == backgroundBouteille) {
+        document.getElementById("cascada").style.display = "block";
+        document.getElementById("montagnes").innerHTML = background;
+      }else{
+        document.getElementById("cascada").style.display = "none";
+        document.getElementById("montagnes").innerHTML = backgroundBouteille;
+      }
+    }
   </script>
 
 </body>

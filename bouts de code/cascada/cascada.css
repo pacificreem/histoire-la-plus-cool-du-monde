@@ -1,5 +1,8 @@
 body{
   margin: 0px;
+  margin-left: 50vw;
+  margin-top: 26px;
+  transform: translateX(-520px);
 }
 
 .nuages{
@@ -43,39 +46,42 @@ animation:         envol 20s steps(40) infinite;
   20%  { margin-left: 200px; margin-top: -30px;}
   35%  { margin-left: 350px; margin-top: 20px;}
   50%  { margin-left: 500px; margin-top: 40px;}
-  65%  { margin-left: 650px; margin-top: -10px;}
-  100% { margin-left: 978px; margin-top: 10px;}
+  65%  { margin-left: 600px; margin-top: -40px;}
+  100% { margin-left: 978px; margin-top: 30px;}
 }
 @-moz-keyframes envol {
   0%   { margin-left: 0px; }
   20%  { margin-left: 200px; margin-top: -30px;}
   35%  { margin-left: 350px; margin-top: 20px;}
   50%  { margin-left: 500px; margin-top: 40px;}
-  65%  { margin-left: 650px; margin-top: -10px;}
-  100% { margin-left: 978px; margin-top: 10px;}
+  65%  { margin-left: 600px; margin-top: -40px;}
+  100% { margin-left: 978px; margin-top: 30px;}
 }
 @-o-keyframes envol {
   0%   { margin-left: 0px; }
   20%  { margin-left: 200px; margin-top: -30px;}
   35%  { margin-left: 350px; margin-top: 20px;}
   50%  { margin-left: 500px; margin-top: 40px;}
-  65%  { margin-left: 650px; margin-top: -10px;}
-  100% { margin-left: 978px; margin-top: 10px;}
+  65%  { margin-left: 600px; margin-top: -40px;}
+  100% { margin-left: 978px; margin-top: 30px;}
 }
 @keyframes envol {
   0%   { margin-left: 0px; }
   20%  { margin-left: 200px; margin-top: -30px;}
   35%  { margin-left: 350px; margin-top: 20px;}
   50%  { margin-left: 500px; margin-top: 40px;}
-  65%  { margin-left: 650px; margin-top: -10px;}
-  100% { margin-left: 978px; margin-top: 10px;}
+  65%  { margin-left: 600px; margin-top: -40px;}
+  100% { margin-left: 978px; margin-top: 30px;}
 }
 
 .flotte{
--webkit-animation: flotte 75s steps(75) infinite;
--moz-animation:    flotte 75s steps(75) infinite;
--o-animation:      flotte 75s steps(75) infinite;
-animation:         flotte 75s steps(75) infinite;
+margin: 0px;
+width: 120px;
+float: left;
+-webkit-animation: flotte 30s steps(75) infinite;
+-moz-animation:    flotte 30s steps(75) infinite;
+-o-animation:      flotte 30s steps(75) infinite;
+animation:         flotte 30s steps(75) infinite;
 }
 
 @-webkit-keyframes flotte {
@@ -96,6 +102,7 @@ animation:         flotte 75s steps(75) infinite;
 }
 
 .vagues{
+margin: 0px;
 -webkit-animation: vagues 2s steps(2) infinite;
 -moz-animation:    vagues 2s steps(2) infinite;
 -o-animation:      vagues 2s steps(2) infinite;
