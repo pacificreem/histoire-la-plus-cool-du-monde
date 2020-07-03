@@ -1,10 +1,10 @@
 html, body{
-	background-color: black;
+background-color: black;
 color: white;
-  margin: 0px;
-  margin-left: 50vw;
-  margin-top: 26px;
-  transform: translateX(-720px);
+margin-top: 26px;
+margin: 0px;
+/*  margin-left: 50vw; 
+  transform: translateX(-520px);*/
 }
 
 #stars1{
